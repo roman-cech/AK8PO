@@ -1,7 +1,7 @@
 #PO
 
 1. 2.
-CIeľom projektu je vytvoriť aplikáciu správy ambulantnej čakárne:
+Cieľom projektu je vytvoriť aplikáciu správy ambulantnej čakárne:
 
 Aplikáciu môžu používajú dve persóny: Pacient, a Ambulantná sestra
 
