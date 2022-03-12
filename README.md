@@ -1,6 +1,6 @@
 #PO
 
-1. 2.
+1. a 2.
 Cieľom projektu je vytvoriť aplikáciu správy ambulantnej čakárne:
 
 Aplikáciu môžu používajú dve persóny: Pacient, a Ambulantná sestra
@@ -22,13 +22,13 @@ DB: lokálna databáza LiteDB. (V prípade C#)
 
 4.
 Časový plán:
-1. Dodefinovanie analýzy z biznisových požiadaviek.
-2. Inštalácia všetkých potrebných technológií, Vytvorenie dummy FE A BE, ktoré spolu komunikujú
-3. Definícia REST rozhrania (Swagger, Postman)
-4. Vytvorenie LiteDB a jej inicializácia (naplnenie dát)
-5. Implementácia BE
-6. Testovanie BE 
-7. Implementácia FE
-8. Testovanie FE
-9. CI & CD
-10. Docker
+1. Dodefinovanie analýzy z biznisových požiadaviek.   - 3h
+2. Inštalácia všetkých potrebných technológií, Vytvorenie dummy FE A BE, ktoré spolu komunikujú    - 3h
+3. Definícia REST rozhrania (Swagger, Postman)     - 2h
+4. Vytvorenie LiteDB a jej inicializácia (naplnenie dát)    -2h
+5. Implementácia BE     - 5h  
+6. Testovanie BE        - 2h
+7. Implementácia FE     - 3h
+8. Testovanie FE        - 1h
+9. CI & CD              - 2h ?
+10. Docker              - 3h ?
