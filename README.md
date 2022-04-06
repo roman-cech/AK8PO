@@ -24,11 +24,11 @@ DB: lokálna databáza LiteDB. (V prípade C#)
 Časový plán:
 1. Dodefinovanie analýzy z biznisových požiadaviek.   - 3h
 2. Inštalácia všetkých potrebných technológií, Vytvorenie dummy FE A BE, ktoré spolu komunikujú    - 3h
-3. Definícia REST rozhrania (Swagger, Postman)     - 2h
-4. Vytvorenie LiteDB a jej inicializácia (naplnenie dát)    -2h
-5. Implementácia BE     - 5h  
-6. Testovanie BE        - 2h
-7. Implementácia FE     - 3h
-8. Testovanie FE        - 1h
-9. CI & CD              - 2h ?
-10. Docker              - 3h ?
+3. Definícia REST rozhrania (Swagger, Postman)     - 3h
+4. Vytvorenie LiteDB, komunikácia s .NET Core a jej inicializácia (naplnenie dát) -3h
+5. FE - Navigácia Aplikácie | Komponenta pre Poradie Pacientov (otestovanie, riešenie vedľajších efektov) - 4h
+6. FE - Komponenta pre Konkretneho pacienta (otestovanie, riešenie vedľajších efektov) - 3h
+7. FE - Vytvorenie a Editácia pacienta (riešenie vedľajších efektov) - 3h
+8. BE - Základna logika a presistencia údajov - 3h 
+9. BE - Integrácia web služby s UI,otestovanie end-pointov (napr. cez Postman) - 3h
+10. Kontejnarizácia aplikácie - 3h
